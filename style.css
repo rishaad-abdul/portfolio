@@ -287,19 +287,23 @@ nav a {
       display:flex;
       flex-direction: column;
       justify-content: space-between;
-      padding: 100px;
-      
+      padding: 20px;
+      height:700px;
       
     }
     .ph h1{
+      font-size: 25px;
       padding: 100px;
+      padding-left: 60px;
     }
-    .ph pic{
-     padding-left: 1000px;
+    .ph .pic{
+     padding-right: 150px;
+     padding-left: 180px;
     }
     .ph p{
-      padding: 100px;
-      padding-left: -300px;
+     height: 100px;
+      font-size: 16px;
+      padding: 05px;
     }
     
     .one{
