@@ -1,0 +1,3 @@
+<div class="skills" style="margin-left: 100px;"><div class="skpic" style="padding: 40px;"></div>
+        <p>I am Skilled at Python, Java, C++, JavaScript, React, HTML, CSS, Cloud Computing. My Specialization is Artificial Intelligence and Machine Learning. DeBugger, Networking, Research Resilience.</p>
+    </div>
